@@ -1,0 +1,2 @@
+利用React16.3新推出的Context API建立中英文切换的简单例子；
+利用react-redux也可以，内部封装了Provider函数为全局提供Context
